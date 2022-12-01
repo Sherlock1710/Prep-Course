@@ -1,0 +1,10 @@
+Variables: son espacios en donde se almacena informacion, por ejemplo una cadena de texto o un numero.
+
+Strings: como su nombre lo dice son cadenas de informacion que en su interior tienen texto.
+       
+ Funciones: son bloques de codigo que permiten abreviar algunas acciones, estas funciones transforman algunas variables (argumentos)
+ en lo que deseemos.      
+
+ Declaraciones: las declaraciones permiten controlar bajo que condicion se ejecuta o no cierta linea de codigo.
+
+ Valores booleanos: son valores que nos ayudan a comparar expresiones y obtener informacion de estas.
