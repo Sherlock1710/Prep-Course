@@ -1,0 +1,5 @@
+For: es una declaracion que ayuda a realizar tareas repetitivas de una manera más sencilla, a traves de bucles e iteraciones.
+
+&& Es un operador logico que compara dos condiciones y si ambas son verdaderas devuelve "verdadero"
+|| Es un operador logico que compara dos condiciones y si alguna es verdadera devuelve "verdadero"
+! Otro operador logico que devuelve lo contrario si es "verdadero", se vuelve "falso" y viceversa
